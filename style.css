@@ -96,8 +96,8 @@ h2.ttl {
   border-bottom: 8px solid #000;
   border-left: 2px solid #000;
   padding: 10px 20px;
-  background-color: #0b7bc5;
-  color: #fff;
+  background-color: #fff;
+  color: #000;
   cursor: pointer;
   border-radius: 11px;
   width: 237px;
@@ -123,8 +123,7 @@ nav.navbar.navbar-expand-lg {
 }
 
 section.hero {
-  padding-top: 20px;
-  padding-bottom: 50px;
+  padding-top: 40px;
 
   /* background-image: linear-gradient(#ffbc02cb, #ffbc02), url(/images/ban.png); */
   background-repeat: no-repeat;
@@ -154,7 +153,7 @@ input.ca_txt {
 }
 button.copy_btn {
   font-size: 30px;
-  background: #0b7bc5;
+  background: #000;
   color: #fff;
   width: 118px;
   height: 50px;
@@ -178,7 +177,7 @@ button.copy_btn {
 
 /************marqee text***********/
 .mar_wrapper {
-  background-color: #0b7bc5;
+  background-color: #000;
   padding-top: 120px;
   padding-bottom: 120px;
   display: flex;
@@ -235,7 +234,7 @@ button.copy_btn {
   /* width: 200px; */
   margin: 0 0.5em;
   padding: 1.5rem;
-  /* background: rgba(255, 255, 255, 0.1); */
+  background: #000;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -351,7 +350,7 @@ h3.number {
   border-right: 2px solid #000;
   font-size: 42px;
   margin: 0;
-  color: #0b7bc5;
+  color: #000;
 }
 .htb_box {
   border-radius: 15px;
@@ -442,7 +441,7 @@ span.tkn_ttl {
   border-bottom: 8px solid #000;
   border-left: 2px solid #000;
   padding: 10px 20px;
-  background-color: #0b7bc5;
+  background-color: #000;
   color: #fff;
   font-family: "Prompt", sans-serif !important;
   width: 349px;
