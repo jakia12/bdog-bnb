@@ -524,7 +524,8 @@ span.tkn_ttl {
 .footer {
   padding: 70px 0;
   /* background-image: url(/images/ftb.png); */
-  background: linear-gradient(#ffbc0281, #ffbc025b), url('./images/bt-ft.jpg');
+  background: linear-gradient(#ffbc0281, #ffbc025b), url('./images/bg-ft.png');
+  background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
 
