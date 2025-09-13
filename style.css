@@ -523,11 +523,12 @@ span.tkn_ttl {
 }
 .footer {
   padding: 70px 0;
-  background-image: url(/images/ftb.png);
+  /* background-image: url(/images/ftb.png); */
+  background: linear-gradient(#ffbc0281, #ffbc025b), url('./images/bt-ft.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 
-  background-color: #ffbb02;
+  /* background-color: #ffbb02; */
 }
 
 .cnt_wrap {
