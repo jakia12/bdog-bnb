@@ -515,6 +515,11 @@ span.tkn_ttl {
   opacity: 0;
 }
 
+.join-h2{
+  font-size: 4rem;
+  padding-top: 30%;
+}
+
 /* footer section */
 .copyright {
   font-size: 18px;
@@ -524,7 +529,7 @@ span.tkn_ttl {
 .footer {
   padding: 70px 0;
   /* background-image: url(/images/ftb.png); */
-  background: linear-gradient(#ffbc0281, #ffbc025b), url('./images/bg-ft.png');
+  background: linear-gradient(#ffbc0281, #ffbc025b), url('./images/bdog2.png');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -612,7 +617,7 @@ span.tkn_ttl {
   
 }
    .ab_ttl {
-    font-size: 67px;
+    font-size: 62px;
 }
   .img_box img {
     width: 100%;
@@ -644,7 +649,7 @@ span.tkn_ttl {
   .tkn_txt {
     
     width: 311px;
-    height: 81px;
+    height: auto;
     border-radius: 10px;
     margin: 0 auto;
     /* font-size: 61px; */
@@ -680,6 +685,9 @@ span.tkn_ttl {
   .social {
     display: none;
   }
+  .join-h2{
+  font-size: 2rem;
+}
 }
 /* copy button desing */
 .copy_btn.copied {
