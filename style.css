@@ -555,6 +555,15 @@ span.tkn_ttl {
   text-align: center;
   margin-bottom: 0;
 }
+.ca_dsn{
+text-align: center;
+              margin: 40px 0;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              gap: 40px;
+}
+
 /* responsive design */
 @media screen and (max-width: 768px) {
   .lg_txt {
@@ -562,7 +571,15 @@ span.tkn_ttl {
     font-weight: 400;
     font-family: "Prompt", sans-serif;
   }
-  
+  .ca_dsn{
+text-align: center;
+              margin: 40px 0;
+              display: block;
+              justify-content: center;
+              align-items: center;
+              gap: 40px;
+}
+
   section.hero {
     padding: 0px 0 0;
     /* background-image: linear-gradient(#ffbc02cb, #ffbc02), url(/images/ban.png); */
@@ -687,6 +704,25 @@ span.tkn_ttl {
   }
   .join-h2{
   font-size: 2rem;
+}
+
+.tkn_txt {
+	display: block;
+	font-size: 34px;
+	border-top: 2px solid #000;
+	border-right: 2px solid #000;
+	border-bottom: 8px solid #000;
+	border-left: 2px solid #000;
+	padding: 10px 20px;
+	background-color: #000;
+	color: #fff;
+	font-family: "Prompt", sans-serif !important;
+	width: 349px;
+	height: 86px;
+	border-radius: 10px;
+	margin: 0 auto;
+	/* font-size: 61px; */
+	line-height: 55px;
 }
 }
 /* copy button desing */
