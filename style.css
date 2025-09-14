@@ -724,6 +724,9 @@ text-align: center;
 	/* font-size: 61px; */
 	line-height: 55px;
 }
+.ab_ttl {
+	font-size: 45px;
+}
 }
 /* copy button desing */
 .copy_btn.copied {
